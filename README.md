@@ -7,7 +7,7 @@ Model Selection and Evaluation: We used seven different machine learning algorit
 
 Performance Comparison: The table below shows the performance comparison of different classification models for churn prediction.
 Model	Accuracy	Precision	Recall	AUC
-LR	0.789	0.566	0.699	0.838
+<br>LR	0.789	0.566	0.699	0.838
 RF	0.754	0.509	0.741	0.838
 GBC	0.724	0.471	0.786	0.827
 XGB	0.723	0.471	0.792	0.829
