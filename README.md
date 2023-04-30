@@ -8,12 +8,12 @@ Model Selection and Evaluation: We used seven different machine learning algorit
 Performance Comparison: The table below shows the performance comparison of different classification models for churn prediction.
 Model	Accuracy	Precision	Recall	AUC
 <br>LR	0.789	0.566	0.699	0.838
-RF	0.754	0.509	0.741	0.838
-GBC	0.724	0.471	0.786	0.827
-XGB	0.723	0.471	0.792	0.829
-LGBM	0.760	0.518	0.727	0.837
-KNN	0.751	0.504	0.656	0.768
-SVOT	0.847	0.799	0.925	0.925
+<br>RF	0.754	0.509	0.741	0.838
+<br>GBC	0.724	0.471	0.786	0.827
+<br>XGB	0.723	0.471	0.792	0.829
+<br>LGBM	0.760	0.518	0.727	0.837
+<br>KNN	0.751	0.504	0.656	0.768
+<br>SVOT	0.847	0.799	0.925	0.925
 
 The soft voting classifier (SVOT) performed the best with the highest accuracy, precision, recall, and AUC. It outperformed all other models by a significant margin. The random forest (RF) model performed the second best, followed by logistic regression (LR) and LightGBM (LGBM).
 
