@@ -45,13 +45,11 @@ The soft voting classifier (SVOT) performed the best with the highest accuracy, 
 
 The ROC curve provides a visual representation of the comparative performance of the different models based on the selected metrics. From the ROC curve, we can see that the soft voting classifier (SVOT) outperforms all other models in terms of the AUC score.
 
-![ROC Curve](results/roc_curve.png)
 
 ## Cumulative Gains Curve
 
 The cumulative gains curve is a useful tool in evaluating the performance of a binary classifier, especially in cases where there is a class imbalance. The plot below shows the cumulative gains curve for the soft voting classifier. From the cumulative gains curve, we can see that with only 20% of the population targeted, the classifier is able to capture approximately 80% of the positive samples.
 
-![Cumulative Gains Curve](results/cumulative_gains_curve.png)
 
 ## Conclusion
 
