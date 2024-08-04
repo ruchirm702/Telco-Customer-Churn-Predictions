@@ -1,5 +1,14 @@
 # Telco Customer Churn Predictions
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-004D40?style=for-the-badge&logo=matplotlib&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF9900?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-F5B941?style=for-the-badge&logo=lightgbm&logoColor=white)
+
+
 ## Introduction
 
 In this data science project, we aimed to develop a model that can predict customer churn for a telecommunications company. Churn prediction is critical for many companies as losing customers can significantly impact revenue and profitability. We used various machine learning algorithms, including logistic regression, random forest, gradient boosting, XGBoost, LightGBM, K-Nearest Neighbors, and soft voting classifiers, to predict churn. We evaluated the performance of these models using different performance metrics such as accuracy, precision, recall, and AUC. This report presents our findings, including the best performing model and its corresponding evaluation metrics.
@@ -55,4 +64,10 @@ The cumulative gains curve is a useful tool in evaluating the performance of a b
 
 In conclusion, we developed a model to predict customer churn for a telecommunications company. We used various machine learning algorithms and evaluated their performance using different performance metrics such as accuracy, precision, recall, and AUC. The soft voting classifier (SVOT) outperformed all other models with the highest accuracy, precision, recall, and AUC. The random forest (RF) model performed the second best, followed by logistic regression (LR) and LightGBM (LGBM).
 
-
+## Acknowledgements
+Scikit-Learn
+Pandas
+Numpy
+Matplotlib
+XGBoost
+LightGBM
