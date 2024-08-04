@@ -65,9 +65,9 @@ The cumulative gains curve is a useful tool in evaluating the performance of a b
 In conclusion, we developed a model to predict customer churn for a telecommunications company. We used various machine learning algorithms and evaluated their performance using different performance metrics such as accuracy, precision, recall, and AUC. The soft voting classifier (SVOT) outperformed all other models with the highest accuracy, precision, recall, and AUC. The random forest (RF) model performed the second best, followed by logistic regression (LR) and LightGBM (LGBM).
 
 ## Acknowledgements
-Scikit-Learn
-Pandas
-Numpy
-Matplotlib
-XGBoost
-LightGBM
+- Scikit-Learn
+- Pandas
+- Numpy
+- Matplotlib
+- XGBoost
+- LightGBM
